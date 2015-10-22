@@ -1,0 +1,15 @@
+7 of length 1
+56 of length 2
+56 of length 3
+56 of length 4
+37of  length 5
+18of length 6
+23of length 7
+7of length 8
+9 of length 9
+6of length 10
+3of  length 11 or more
+
+Average Number of characters is : 4
+The total Number of words is  278
+
